@@ -1,3 +1,5 @@
 void main () {
-    print ('salom');
+    print ('  )');
+    print (' (');
+    print ('[_])');
 }
